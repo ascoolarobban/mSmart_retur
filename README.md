@@ -3,7 +3,7 @@
     <a href="https://ibb.co/LZ360jt"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1200px-PDF_file_icon.svg.png" alt="Logo" border="0" height="200px" width="150"></a>
   </a>
 
-  <h3 align="center">mSmart Reutrn</h3>
+  <h3 align="center">mSmart Return</h3>
 
   <p align="center">
     Fun app project to fill out a pdf form written in python. 
