@@ -27,7 +27,7 @@
 ## How to:
 - Open up folder.
 - go to "Dist" folder.
-- move "main" to dock
+- move "main" to dock or into applications folder
 - Doubble click and voila' 
 
 ## Use Case
