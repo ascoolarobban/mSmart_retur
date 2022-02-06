@@ -15,6 +15,7 @@
 
 
 ## Table of contents
+- [How to](#how-to)
 - [Use Case](#Use-Case)
 - [Libs](#Libs)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -23,6 +24,12 @@
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 ---
+## How to:
+- Open up folder.
+- in "Dist" folder
+- move "main" to dock
+- Doubble click and voila' 
+
 ## Use Case
 Fill out a pdf template with input fields an checkboxes. The os will later open the filled pdf and open it for you to print/e-mail.
 
