@@ -277,10 +277,16 @@ filemaker_check.pack(fill='x',expand=True)
 save_button = ttk.Button(msmart_return, text="Klar", command=save_clicked)
 save_button.pack(fill='x', expand=True, pady=10)
 
+terminal_message = "STÄNG INTE MIG =) JAG ÄR SKITLÅNGSAM PÅ ATT STARTA PROGRAMMET MEN TÅLAMOD ÄR EN FISKARES BÄSTA VÄN! \n" \
+                   "Fråga mig smarta saker på linkedin/iotrobban"
 
 
-
+print(terminal_message)
 root.mainloop()
+
+
+
+
 
 
 
