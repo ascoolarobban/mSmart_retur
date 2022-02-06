@@ -26,7 +26,7 @@
 ---
 ## How to:
 - Open up folder.
-- in "Dist" folder
+- go to "Dist" folder.
 - move "main" to dock
 - Doubble click and voila' 
 
