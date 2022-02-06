@@ -26,7 +26,7 @@
 ---
 ## How to
 - Open downloaded folder
-- open "mSmart Retur"
+- in the "dist" folder - RIGHT CLICK mSmart retur, open.
 - for convenience save in dock
 -  voila'
 
